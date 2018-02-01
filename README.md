@@ -27,6 +27,7 @@ Params
 GraphQL version="0.17.3"
 GraphQL-Parser version="2.0.0"
 Newtonsoft.Json version="9.0.1"
+EntityFramework version = "5.0.0"
 ```
 
 # Framework
